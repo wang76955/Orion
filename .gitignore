@@ -1,0 +1,11 @@
+# Common OS / editor noise
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+
+# Build outputs
+node_modules/
+dist/
+build/
+out/
